@@ -1,0 +1,10 @@
+name: Hats
+main: muqsit\hats\Main
+api: 3.0.0-ALPHA10
+version: 1.0
+commands:
+  hat:
+    permission: hats.command
+permissions:
+  hats.command:
+    default: op
