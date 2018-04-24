@@ -1,6 +1,7 @@
 name: Hats
 main: muqsit\hats\Main
-api: 3.0.0-ALPHA10
+api: [3.0.0-ALPHA12]
+author: zGodSky&Muqsit
 version: 1.0
 commands:
   hat:
